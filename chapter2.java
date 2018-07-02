@@ -17,10 +17,10 @@ class TypeExample{
         b = 81;
         boolean bool;
         bool = true;
-        System.out.println(d);
-        System.out.println(c);
-        System.out.println(b);
-        System.out.println(bool);
+        System.out.println("double is " + d);
+        System.out.println("char is " + c);
+        System.out.println("byte is " + b);
+        System.out.println("boolean is " + bool);
     }
 }
  
